@@ -1,2 +1,2 @@
-# Music-Survey-Form
-Survey form made with HTML and CSS
+# MusicSurveyForm
+Survey form made with HTML and CSS with CSS animations
